@@ -138,19 +138,24 @@ plt.show()
 
 # OUTPUT:
 Data Print
+
 <img width="492" height="176" alt="image" src="https://github.com/user-attachments/assets/ff83567d-c57c-491d-99f5-d1387f0c2409" />
 
 3D Scatter Plot
+
 <img width="740" height="661" alt="image" src="https://github.com/user-attachments/assets/6947ff20-58a8-4327-ad14-c3493215f132" />
 
 
 2D Scatter Plot
+
 <img width="695" height="591" alt="image" src="https://github.com/user-attachments/assets/ee743c55-a58d-447d-b4d0-2f4e0bb79f15" />
 
 Accuracy
+
 <img width="581" height="42" alt="image" src="https://github.com/user-attachments/assets/264fdca3-2b04-47da-8c8b-f241689c9a7b" />
 
 Training Error Plot (Epochs vs Errors):
+
 <img width="635" height="570" alt="image" src="https://github.com/user-attachments/assets/efbae77e-9969-4652-8c31-8ae54a46fa5c" />
 
 # RESULT:
